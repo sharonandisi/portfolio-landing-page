@@ -20,3 +20,14 @@
     float: right;
     font-family: georgia;
 }
+
+.sectiontitles {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-style: oblique;
+}
+
+.hello {
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+}
