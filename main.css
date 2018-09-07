@@ -1,0 +1,16 @@
+.header {
+    overflow: hidden;
+    background-color: black;
+    padding: 20px 10px;
+}
+
+.header a {
+    float: right;
+    color: pink;
+    text-align: center;
+    padding: 12px;
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 25px;
+    border-radius: 4px;
+}
