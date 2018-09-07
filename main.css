@@ -63,4 +63,20 @@ body{
     color: black;
     text-align: left;
     width: 250px;
+    height: 1000px;
+}
+
+
+#list2 { width:320px; }
+#list2 ol { font-style:italic; font-family:Georgia, Times, serif; font-size:30px; color: black;  }
+#list2 ol li { }
+#list2 ol li p { padding:8px; font-style:normal; font-family:Arial; font-size:13px; color:black; border-left: 1px solid #999; }
+#list2 ol li p em { display:block; }
+
+.body{  
+    float: left; 
+    text-align: center;
+}
+.bodytext {
+    text-align: center;
 }
