@@ -1,16 +1,22 @@
 .header {
     overflow: hidden;
     background-color: black;
-    padding: 20px 10px;
+    padding: 25px 15px;
 }
 
 .header a {
-    float: right;
+    float: left;
     color: pink;
-    text-align: center;
-    padding: 12px;
+    text-align: left;
+    padding: 50px;
     font-family: sans-serif;
-    font-size: 12px;
-    line-height: 25px;
+    font-size: 14px;
+    line-height: 30px;
     border-radius: 4px;
+    text-decoration: beige;
+}
+
+.description {
+    float: right;
+    font-family: georgia;
 }
