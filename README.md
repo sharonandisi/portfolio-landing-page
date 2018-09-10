@@ -2,7 +2,7 @@
 This a personal programmer portfolio landing page. It contains a brief synopsis of the programmer.
 #### By **{Sharon Andisi}**
 ## Description
-{This is a simple website that is a simple programming portfolio landing page that gives a description of who the programmer is a s a person, their skills and attributes and their hobbies. Its meant to be practice geared towards building interactive websites in the near future }
+{This is a simple website that is a simple programming portfolio landing page that gives a description of who the programmer is a s a person, their skills and attributes and their hobbies. Its meant to be practice geared towards building interactive websites in the near future. Here is the link :https://github.com/sharonandisi/portfolio-landing-page.git }
 ##  Setup/installation Requirements
 * Have a functioning up to date Web Browser
 * Have a text editor i.e Atom, Visual Code Basic, Sublime Text etc.
